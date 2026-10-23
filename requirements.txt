@@ -1,0 +1,1 @@
+pandas\nnumpy\nmatplotlib\nscikit-learn\njoblib\nreportlab\njupyter\nnbformat\n
